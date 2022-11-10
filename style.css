@@ -9,3 +9,9 @@
     margin: 0 auto;
     margin-top: 50px;
 }
+
+footer{
+    font-family: monospace;
+    background-color: grey;
+    color: white;
+}
