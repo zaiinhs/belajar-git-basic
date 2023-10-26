@@ -1,7 +1,7 @@
 # Learn GIT
 
 - ssh -T (link repo ssh)
-- ssh-keygen =
+- ssh-keygen = ini untuk generate ssh key
 - sudo chmod 600 /home/zaiinhs/.ssh/zain
 - chmod 600 /home/zaiinhs/.ssh/zain
 - sudo visudo
