@@ -14,3 +14,5 @@
 - vi config
 - vim config
 - cat config
+- cat ~/zaiinhs_vm_delman.pub
+
